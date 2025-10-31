@@ -72,15 +72,6 @@
 
 ## 🎯 Featured Projects
 
-### 🍰 [CakeStory - AI-Powered Social Platform](https://github.com/LVQT-ss/CakeStory_BE)
-**Tech Stack:** Node.js, Express.js, Firebase, OpenAI GPT-4, Swagger
-
-- 🤖 Integrated OpenAI API for AI-powered cake design generation
-- 🗄️ Architected complex database with 25+ interconnected tables
-- 💬 Built real-time chat using Firebase Realtime Database
-- 🔄 Implemented AI-to-purchase workflow with automated baker matching
-- 📚 Created comprehensive API documentation with Swagger
-
 ### 🛒 [E-Commerce Computer Platform](https://github.com/LVQT-ss/SHOPC.git)
 **Tech Stack:** React, Express.js, React Native, PostgreSQL
 
@@ -89,13 +80,6 @@
 - 💳 Integrated VietQR payment with real-time notifications
 - 📊 Built admin dashboard with analytics
 
-### 🐟 [Koi Management System](https://github.com/LVQT-ss/Fall2024SWD392_SE1707_Group3_BE.git)
-**Tech Stack:** React, Express.js, PostgreSQL, TypeORM
-
-- 👥 Led team of 4 developers in Agile environment
-- 📈 Created real-time dashboard for pond monitoring
-- 🧮 Designed algorithms for optimal feeding calculations
-- 🚀 Deployed with CI/CD (Vercel + Render.com)
 
 ### 📱 [POS Mobile Application](https://github.com/LVQT-ss/RN-assigment.git)
 **Tech Stack:** React Native, Express.js, Google Maps API
@@ -129,47 +113,6 @@
 - 🏅 **IELTS 5.5** - English Proficiency
 - 🚀 **4+ Full-Stack Projects** - From concept to deployment
 
----
 
-## 📈 Skills Breakdown
 
-```text
-Frontend          ████████████████████░   95%
-Backend           ███████████████████░░   90%
-Mobile Dev        ████████████████░░░░░   80%
-Database Design   ███████████████████░░   92%
-API Integration   ████████████████████░   95%
-DevOps & Cloud    ███████████████░░░░░░   75%
-```
 
----
-
-## 💡 What I'm Currently Learning
-
-- 🔥 Microservices Architecture
-- 🤖 Advanced AI Integration (OpenAI, Machine Learning)
-- ☁️ Cloud Native Development (AWS, GCP)
-- 📱 Advanced React Native Performance Optimization
-- 🔐 Advanced Security Practices
-
----
-
-## 🤝 Let's Connect!
-
-I'm actively looking for **Full-time Software Developer** opportunities where I can contribute to impactful projects and continue growing as a developer.
-
-📧 **Email:** levietquocthinh@gmail.com  
-📱 **Phone:** 0328789712  
-📍 **Location:** Vinhome Grandpark, District 9, Ho Chi Minh City  
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/levietquocthinh/)  
-👨‍💻 **GitHub:** [github.com/LVQT-ss](https://github.com/LVQT-ss)
-
----
-
-<div align="center">
-
-### ⭐️ From [LVQT-ss](https://github.com/LVQT-ss) with 💙
-
-![Profile Views](https://komarev.com/ghpvc/?username=LVQT-ss&color=brightgreen&style=for-the-badge)
-
-</div>
