@@ -12,18 +12,6 @@
 
 ---
 
-## 🚀 About Me
-
-```javascript
-const thinhProfile = {
-    education: "FPT University - Software Engineering (2022-2025)",
-    location: "Biên Hòa, Dong Nai, Vietnam",
-    currentFocus: ["Full-Stack Development", "Mobile Apps", "AI Integration"],
-    lookingFor: "Full-time Software Developer opportunities",
-    languages: ["Vietnamese (Native)", "English (IELTS 5.5)"],
-    funFact: "I love building AI-powered applications and scalable systems!"
-};
-```
 
 ## 💼 Professional Experience
 
