@@ -20,7 +20,7 @@
 - Collaborated in Agile environment with daily code reviews
 
 🔹 **Team Leader** - Koi Management System (2024)
-- Led team of 4 developers
+- Lead team of 4 developers
 - Architected complex feeding algorithms
 
 🔹 **Backend Developer** - CakeStory AI Platform (2025)
