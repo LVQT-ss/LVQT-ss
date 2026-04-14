@@ -14,7 +14,7 @@
 
 ## 💼 Professional Experience
 
-🔹 **Full-Stack Developer** @ Galasoft (beta.nudi.vn) (Jan 2025 - Present)
+🔹 **Full-Stack Developer** @ Nudi Limited (nudi.vn) (Jan 2025 - Present)
 - Engineered core clinical modules and medical networking using ASP.NET Core & Angular
 - Automated patient nutritional tracking and PDF medical report generation
 
